@@ -1,6 +1,6 @@
 # Star Wars GraphQL API
 
-An example of how to implement graphql consuming a RESTful API.
+An example of how to implement graphql consuming a RESTful API(https://swapi.co/).
 
 ## Getting started
 ### Setting up a project
