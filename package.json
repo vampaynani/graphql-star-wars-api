@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "graphql-yoga": "^1.16.2",
-    "mongoose": "^5.2.14"
+    "axios": "^0.18.0",
+    "graphql-yoga": "^1.16.2"
   }
 }

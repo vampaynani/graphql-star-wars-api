@@ -1,1 +1,1 @@
-module.exports = () => `This is my first API`;
+module.exports = () => `GraphQL implementation of Star Wars API`;

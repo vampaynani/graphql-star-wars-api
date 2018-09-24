@@ -1,4 +1,4 @@
-const feed = require('./feed');
 const info = require('./info');
+const people = require('./people');
 
-module.exports = { feed, info };
+module.exports = { info, people };
