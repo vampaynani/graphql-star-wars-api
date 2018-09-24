@@ -8,7 +8,7 @@ An example of how to implement graphql consuming a RESTful API(https://swapi.co/
 - Clone this repository: `git clone https://github.com/vampaynani/graphql-star-wars-api`
 * Move into the project directory: `cd graphql-star-wars-api`
 * Install the dependencies: `yarn install`
-* Run the development task: `yarn start`
+* Run the development task: `yarn dev`
 * Go to `http://localhost:4000` and start to do queries
 
 ### How to do a query
